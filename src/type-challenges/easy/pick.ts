@@ -47,3 +47,5 @@ const todo: TodoPreview = {
   title: 'Clean room lgf',
   completed: false,
 };
+
+console.log(todo);
